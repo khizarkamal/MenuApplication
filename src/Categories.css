@@ -1,0 +1,24 @@
+
+.btn-container{
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cat-button {
+    font-weight: bolder;
+    font-size: 1.1rem;
+    padding: 0.5rem 0.5rem;
+    text-transform: capitalize;
+    color: rgb(195, 134, 20);
+    background-color: transparent;
+    border: none;
+}
+
+.cat-button:hover{
+    background-color: rgb(195, 134, 20);
+    cursor: pointer;
+    color: white;
+    border-radius: 3px;
+}

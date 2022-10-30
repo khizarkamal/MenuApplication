@@ -1,0 +1,8 @@
+.heading{
+    border-bottom: 2px solid rgb(195, 134, 20);
+    text-align: center;
+    display: flex;
+    width: fit-content;
+    margin:1rem auto;
+    padding: 1rem;
+}
